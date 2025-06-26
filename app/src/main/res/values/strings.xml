@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">定时答题</string>
+    <string name="set_timer">设置定时器</string>
+    <string name="countdown_timer">倒计时</string>
+    <string name="specific_time">指定时间</string>
+    <string name="add_question">添加题目</string>
+    <string name="start_timer">开始定时</string>
+    <string name="stop_timer">停止定时</string>
+    <string name="hours">小时</string>
+    <string name="minutes">分钟</string>
+    <string name="seconds">秒</string>
+    <string name="select_time">选择时间</string>
+    <string name="select_date">选择日期</string>
+    <string name="question_hint">请输入题目内容</string>
+    <string name="answer_hint">请输入您的答案</string>
+    <string name="confirm">确认</string>
+    <string name="next_question">下一题</string>
+    <string name="finish">完成</string>
+    <string name="timer_notification_title">定时器运行中</string>
+    <string name="timer_notification_content">距离答题时间还有 %s</string>
+    <string name="permission_required">需要悬浮窗权限才能正常工作</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="question_number">第 %d 题</string>
+    <string name="total_questions">共 %d 题</string>
+</resources>
